@@ -28,14 +28,18 @@ session = Session(engine)
 
 app = Flask(__name__)
 
-import app
 
 print("example __name__ = %s", __name__)
 
+
 if __name__ == "__main__":
+    app.run()
     print("example is being run directly.")
 else:
     print("example is being imported")
+
+
+
 
 ## 9.5.2 CREATE THE WELCOME ROUTE
 
@@ -49,5 +53,9 @@ def welcome():
     /api/v1.0/tobs
     /api/v1.0/temp/start/end
     ''')
+
+
+
+
 
 # python app.py
