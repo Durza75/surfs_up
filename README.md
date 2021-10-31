@@ -4,9 +4,9 @@
 
 ### Purpose
 
-I plan to start my own business in Oahu, Hawaii. The business will consist of a Surf n' Shake shop, where surfboards and ice cream will be sold to the locals.
+The client plans to start a business in Oahu, Hawaii. The business will consist of a Surf n' Shake shop, where surfboards and ice cream will be sold to the locals.
 
-W.Avy has expressed interest in investing in this venture but is concerned about the weather patterns of the area.
+W.Avy, an angel investor, has expressed interest in investing in this venture but is concerned about the weather patterns of the area.
 
 The purpose of this project is to analyze the previous weather patterns of Oahu by gathering data on year-round temperatures, especially comparing the summer temperatures with the winter temperatures, where there exists an increased probability of weather fluctuations. The temperatures for the months of June and December were sampled and analyzed.
 
@@ -33,9 +33,9 @@ Three key differences were discovered during these two months and are listed bel
 
 ### Summary and Recomendations
 
- Although there have been lower temperatures recorded for the month of December, according to the summary statistics, there is minimal amount of difference in recorded high temps between June and December, as well as a minimal difference between the average temperatures. This indicates that temperatures in Oahu tend to remain relatively warm year-round, which results in favorable surfing conditions. 
+ Although there have been lower temperatures recorded in December, according to the summary statistics, there is a minimal amount of difference in recorded high temps between June and December, as well as a minimal difference between the average temperatures. This indicates that temperatures in Oahu tend to remain relatively warm year-round, which results in favorable surfing conditions. 
 
- It is recommended to continue forward with the plan to open a Surf n' Shake shop in the island of Oahu.
+ It is recommended for the client to continue forward with the plan to open a Surf n' Shake shop in the island of Oahu.
 
  
 
