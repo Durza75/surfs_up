@@ -16,30 +16,26 @@ The purpose of this project is to analyze the previous weather patterns of Oahu 
 
 Three key differences were discovered during these two months and are listed below:
 
-- 
+- The minimum temps between June and December differ significantly compared to their maximum temps. In June, they differ by 12 degrees: 64° F in June (Figure 1) and 56° F in December (Figure 2).  
+
+- The standard deviation for the June temperatures is approximately 3.26° F whereas in the December temperatures it is 3.75° F.  
+
+- The mean temperature for the month of June is 74.94° F, and in December it is 71.04° F.
 
 #### Figure 1
 ![](Resources/June_temps.png)  
 
 #### Figure 2
-![](Resources/December_temps.png)
-
-
-
-
+![](Resources/December_temps.png)  
 
 
 ## Summary
 
 ### Summary and Recomendations
 
- Out of the three city types, urban cities are the most significant. They have the highest amount of total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.  
- 
- Based on the results of this project, the following three recommendations are given to the company.
+ Although there have been lower temperatures recorded for the month of December, according to the summary statistics, there is minimal amount of difference in recorded high temps between June and December, as well as a minimal difference between the average temperatures. This indicates that temperatures in Oahu tend to remain relatively warm year-round, which results in favorable surfing conditions. 
 
- 1. Review and implement a new pricing strategy of fare per ride in urban cities. 
- 2. Increase the amount of drivers in urban cities to meet the high demand of riders. This can be done by incentivizing higher wages for urban drivers.
- 3. Collect data on riders travelling from one city type to another.
+ It is recommended to continue forward with the plan to open a Surf n' Shake shop in the island of Oahu.
 
  
 
